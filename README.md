@@ -1,6 +1,6 @@
 # BreastCancer
 Predicting Benign or Malignant tumor using classification
-BreastCancer.py
+BreastCancer.py & Keras.ipynb [ Deep Learning ]
 
 # Dataset
 This breast cancer database was obtained from Dr. Wolberg’s office at the University of Wisconsin
@@ -15,10 +15,12 @@ Cancer.csv - should be in same directory as BreastCancer.py
 # Resources
 Spyder  
 Pandas (library)  
+Keras  (library)
+
 
 # Classification Methods
 Random Forrest  (RF)  
-Support Vector Machine (SVM)  
+Support Vector Machine (SVM) 
 
 
 # Confusion Matrix  
