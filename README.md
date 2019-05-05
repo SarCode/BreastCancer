@@ -22,7 +22,6 @@ Keras  (library)
 Random Forrest  (RF)  
 Support Vector Machine (SVM) 
 
-
 # Confusion Matrix  
 [ True Positive   False Positive
   False Negative  True Negative]  
@@ -47,10 +46,13 @@ Support Vector Machine (SVM)
   True Negative  = 53  
   RF False Positive count i.e. predicted as having benign tumor but actually have malignant tumor = 2    
   
- # Accuracy
- SVM = 97.14 %
- Random Forrest = 97.14 %
+  # Accuracy
+  SVM = 97.14 %
+  Random Forrest = 97.14 %
  
  For having less number of false positive we should use random forrest i.e. 2 
+ 
+ # Deep Learning Model
+ Keras.ipynb is application of deep learning model on Breast Cancer dataset
   
   
