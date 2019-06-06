@@ -1,5 +1,5 @@
 # BreastCancer
-Predicting Benign or Malignant tumor using classification
+The objective of these predictions is to assign patients to either a benign group that is noncancerous or a malignant group that is cancerous.
 BreastCancer.py & Keras.ipynb [ Deep Learning ]
 
 # Dataset
