@@ -1,3 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarcode&label=Profile%20views&color=0e75b6&style=flat" alt="sarcode" /> </p>
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # BreastCancer
 The objective of these predictions is to assign patients to either a benign group that is noncancerous or a malignant group that is cancerous.
 BreastCancer.py & Keras.ipynb [ Deep Learning ]
@@ -56,3 +61,6 @@ Support Vector Machine (SVM)
  Keras.ipynb is application of deep learning model on Breast Cancer dataset
   
   
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/sarthak-agarwal-dell/
+
